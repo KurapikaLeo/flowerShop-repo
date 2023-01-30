@@ -1,0 +1,5 @@
+14;Tulip;white;1000;3;3000
+640;Rose;red;500;3;1500;Complete
+715;Rose;red;500;2;1000;Complete
+573;Tulip;white;1000;1;1000;Complete
+110;Tulip;White;500;1;500;Incomplete
